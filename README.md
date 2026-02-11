@@ -7,7 +7,6 @@
 ---
 
 <h3 align="center">🛡️ Cyber Security Professional in Progress | eJPT Certified | CEH Path</h3>
----
 
 ## 👨‍💻 About Me
 
