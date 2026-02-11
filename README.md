@@ -101,7 +101,7 @@ while building structured **Offensive Security capability**
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
-<a href="https://www.instagram.com/ajuthomas34807/" target="blank">
+<a href="https://www.instagram.com/_.ajuthomas._/" target="blank">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/>
 </a>
 </p>
