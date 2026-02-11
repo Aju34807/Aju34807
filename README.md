@@ -7,9 +7,6 @@
 ---
 
 <h3 align="center">🛡️ Cyber Security Professional in Progress | eJPT Certified | CEH Path</h3>
-
-<img align="right" width="400" src="https://media.giphy.com/media/3o7TKsQ8UQpQ0u6b6w/giphy.gif"/>
-
 ---
 
 ## 👨‍💻 About Me
@@ -111,7 +108,3 @@ while building structured **Offensive Security capability**
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aju34807&color=brightgreen&style=flat-square"/>
-</p>
